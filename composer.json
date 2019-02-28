@@ -1,0 +1,13 @@
+{
+    "name": "spacemudd/timetoken",
+    "description": "A mini library for time and billing operations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shafiq al-Shaar",
+            "email": "hello@getshafiq.com"
+        }
+    ],
+    "require": {}
+}
